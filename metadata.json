@@ -1,0 +1,5 @@
+{
+  "name": "Google Star",
+  "description": "An AI-powered assistant for answering questions and generating images, featuring Google Sign-in.",
+  "requestFramePermissions": []
+}
